@@ -1,0 +1,83 @@
+    #loading {
+      display: block;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 100px;
+      line-height: 170px;
+    }
+    body{
+       background-color: #ffffff;
+       color: #000000;
+       font-family: sans-serif;
+    }
+
+
+
+    .container {
+
+      background-color:  rgb(205, 201, 201) ;
+      border-radius: 20px;
+    }
+
+
+
+ .remain {
+    margin-top: 0;
+    text-align: center;
+    background-color: brown;
+    height: 80px;
+    line-height: 80px;
+    border-radius: 20px;
+
+ }
+
+
+ .five2 {
+   background-color:  rgb(205, 201, 201) ;
+   border-radius: 20px;
+ }
+ 
+ .display{
+    line-height: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    background-color:  rgb(205, 201, 201) ;
+    border-radius: 20px;
+ }
+ button{
+    color: black;
+    width: 150px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 20px  solid black;
+    border-radius: 20px;
+ }
+
+
+ .five {
+    text-align: center;
+    height: 80px;
+    line-height: 40px;
+    border-radius: 20px;
+    background-color: brown;
+ }
+
+ .Task {
+   text-align: center;
+   background-color: brown;
+   line-height: 40px;
+   height: 80px;
+   border-radius: 20px;
+ }
+
+ .for {
+   text-align: center;
+   background-color: brown;
+   height: 50px;
+   line-height: 50px;
+   border-radius: 20px;
+ }
