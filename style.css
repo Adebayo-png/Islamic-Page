@@ -1,9 +1,9 @@
     #loading {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      display: block;
       font-size: 24px;
       font-weight: bold;
+      text-align: center;
+      margin-top: 500px;
       line-height: 170px;
     }
     body{
