@@ -4,9 +4,8 @@
       setTimeout(function () {
         // Hide loading message
         document.getElementById('loading').style.display = 'none';
-
         document.getElementById('main-content').style.display = 'block';
-      }3000,); // 5 minutes
+      },30000); // 5 minutes
     });
 
     let number = 0;
