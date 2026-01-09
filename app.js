@@ -5,7 +5,7 @@
         // Hide loading message
         document.getElementById('loading').style.display = 'none';
         document.getElementById('main-content').style.display = 'block';
-      },30000); // 5 minutes
+      },10000); // 5 minutes
     });
 
     let number = 0;
